@@ -1,1 +1,2 @@
 Testing and practicing, git class
+Testing the commit message in VS code
